@@ -1,13 +1,13 @@
 {
-  "name": "REPLACE_ME",
-  "description": "REPLACE_ME",
-  "author": "REPLACE_ME",
+  "name": "tsm-language-server-client",
+  "description": "tsm-language-server-client",
+  "author": "Michael Pietsch",
   "license": "MIT",
   "version": "0.0.1",
-  "publisher": "REPLACE_ME",
+  "publisher": "Michael Pietsch",
   "repository": {
     "type": "git",
-    "url": "REPLACE_ME"
+    "url": "https://github.com/ahpex/tsm-language-server-client.git"
   },
   "engines": {
     "vscode": "^1.75.0"

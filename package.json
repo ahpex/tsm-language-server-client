@@ -7,7 +7,7 @@
   "publisher": "Michael Pietsch",
   "repository": {
     "type": "git",
-    "url": "REPLACE_ME"
+    "url": "https://github.com/ahpex/tsm-language-server-client.git"
   },
   "categories": [
     "Programming Languages"
