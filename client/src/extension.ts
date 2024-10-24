@@ -44,7 +44,7 @@ export function activate(context: ExtensionContext) {
   // Create the language client and start the client.
   client = new LanguageClient(
     "tsm-language-server-id",
-    "tms-language-server-name",
+    "tsm-language-server-name",
     serverOptions,
     clientOptions
   );
